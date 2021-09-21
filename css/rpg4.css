@@ -1,0 +1,108 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    background-color: #F5F5DC;
+  }
+  ul {
+    padding: 0px!important;
+  }
+  .header-1 {
+    width: 100%;
+    height: 83px;
+    background-color: #252323;
+  }
+  main {
+    margin: 0 auto;
+    width: 980px;
+    position: relative;
+  }
+  .logo {
+    padding: 4px;
+    width: 30%;
+    float: left;
+  }
+  .titulo {
+    width: 30%;
+    float: left;
+    margin-left: 36px;
+    color: #EE0000;
+  }
+  .redes-sociais ul li {
+    margin-left: 12px;
+    margin-top: 10px;
+    display: inline-block;
+  }
+  .redes-sociais ul li {
+    float: left;
+  }
+  .redes-sociais {
+    width: 7%;
+    float: right;
+  }
+  .redes-sociais ul {
+    margin-left: 10px;
+  }
+  .header-2 {
+    width: 980px;
+    margin: 0 auto;
+  }
+  .menu-url {
+    border-bottom: 3px solid gray;
+    height: 55px;
+    background-color: #B5B5B5;
+  }
+  .menu ul li {
+    display: inline-block;
+    margin-left: 12px;
+    height: 40px;
+  }
+  .menu ul li a {
+    color: #363636;
+    text-decoration: none;
+    font-size: 14px;
+    text-transform: uppercase;
+  }
+  .menu ul li a:hover {
+    color: #EE0000;
+  }
+  .menu ul li:hover {
+    border-bottom: 2px solid #EE0000;
+  }
+  .menu {
+    width: 70%;
+    float: left;
+  }
+  .busca {
+    width: 21%;
+    float: right;
+    margin-top: 3px;
+    text-align: center;
+  }
+  .busca input {
+    margin-top: 10px;
+    height: 25px;
+    width: 190px;
+    background-image: url(../img/busca.png);
+    background-repeat: no-repeat;
+    background-position: 93%;
+    background-color: #F5F5DC;
+    border: 2px solid #d6d6d6;
+  }
+  .encher {
+    width: 100%;
+    float: left;
+    position: relative;
+  }
+  .conteudo {
+    text-align: center;
+}
+.conteudo h2 {
+    color: #494646;
+    margin: 40px;
+}
+.conteudo p {
+    color: #6e6a6a;
+    font-size: 18px;
+    margin-top: 40px;
+}
